@@ -66,6 +66,7 @@ console.log(kMummery.email)
 console.log(gMartinson.name)
     // Antonietta's Gender
 console.log(aDaine.gender)
+
     // ==== Challenge 3: Object Methods ==== 
     // Give Kennan the ability to say "Hello, my name is Kennan!" Use the console.log provided as a hint.
     // console.log(kennan.speak());
