@@ -12,9 +12,8 @@ myFunction();
 //   return param;
 // };
 // anotherFunction("Example");
-let anotherFunction = (param) =>{
-    return param;
-};
+let anotherFunction = param => param;
+
 anotherFunction("Example")
 // let add = function (param1, param2) {
 //   return param1 + param2;
