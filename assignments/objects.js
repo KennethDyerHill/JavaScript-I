@@ -84,7 +84,6 @@ console.log(aDaine.gender)
 //console.log(antonietta.multiplyNums(3,4));
 const multiplyNums = function(num1, num2){
   return num1 * num2;
-  
 }
 console.log(multiplyNums(3,4));
 // === Great work! === Head over to the the arrays.js file or take a look at the stretch challenge
